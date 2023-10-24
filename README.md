@@ -4,7 +4,7 @@
 2. В тестировании с 2021 года;
 
 ## Education
-!(https://github.com/Khidikel/Khidikel/blob/main/Stepik_logotype%20(1).png) | [Вселенная тестирования, или Как стать
+![Степик](https://github.com/Khidikel/Khidikel/blob/main/Stepik_logotype%20(1).png) | [Вселенная тестирования, или Как стать
 тестировщиком](https://drive.google.com/file/d/1uVK6zNp3XazTGR7Bg8P64yo-4rfIoYQ2/view?usp=sharing)
 :---------------------| :-------------------:
 ## Stack and tools
