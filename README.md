@@ -4,7 +4,7 @@
 2. В тестировании с 2021 года;
 
 ## Education
-(Сертификат Stepik)[https://yandex.ru/video/preview/2898949493214648912]
+(Сертификат Stepik)[https://drive.google.com/file/d/1uVK6zNp3XazTGR7Bg8P64yo-4rfIoYQ2/view?usp=sharing]
 
 ## Stack and tools
 
