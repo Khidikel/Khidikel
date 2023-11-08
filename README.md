@@ -1,6 +1,6 @@
 ### Hi there 😍
 
-* I'm manual and automation Engineer from Saint-P; :fire:
+* I'm manual and automation Engineer from Saint-P;
 * I've been working at QA since 2023;
 * Contacts:
   * Email: helehahidikel@gmail.com
@@ -11,4 +11,10 @@
 :------------------------------| :---------------------------:
 ## Stack and tools
 
- ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+</div>
+<div>
+  <img src="https://postman.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+</div>
+ 
