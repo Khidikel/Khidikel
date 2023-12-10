@@ -4,7 +4,7 @@
 * I've been working at QA since 2023;
 * Contacts:
   * Email: helehahidikel@gmail.com
-  * Telegram: @khidik
+  * Telegram: https://t.me/Khidik
 
 ## Education
 ![Степик](https://github.com/Khidikel/Khidikel/blob/main/stepik.png) | [Вселенная тестирования](https://drive.google.com/file/d/1uVK6zNp3XazTGR7Bg8P64yo-4rfIoYQ2/view?usp=sharing)
