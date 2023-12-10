@@ -8,6 +8,7 @@
 
 ## Education
 ![Степик](https://github.com/Khidikel/Khidikel/blob/main/stepik.png) | [Вселенная тестирования](https://drive.google.com/file/d/1uVK6zNp3XazTGR7Bg8P64yo-4rfIoYQ2/view?usp=sharing)
+![VK](https://github.com/Khidikel/Khidikel/blob/main/assets/images) | [Вселенная тестирования](https://drive.google.com/file/d/1CXD_cMX8omWeadnqK9a_akBWRx7Lmuef/view?usp=drive_link)
 :------------------------------| :---------------------------:
 ## Stack and tools
 
