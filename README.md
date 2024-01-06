@@ -16,7 +16,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-icons/mysql/mysql-original.svg
+[icons/mysql/mysql-original.svg](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg
 </div>
 
  
