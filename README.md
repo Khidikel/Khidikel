@@ -35,4 +35,7 @@
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachekafka.svg" title="apachekafk" alt="apachekafk" width="40" height="40"/>&nbsp;
  </div>
 
+ ## Pet-проекты
+ [Чек-листы в Miro](https://miro.com/welcomeonboard/MzA5NEtpODVyYnVIM252amdwZG1JVE5pS1JJRFlkTU45YUNacENqbkt4ZEVyVEN1M1Fjb1hoUUFZREV3UXNIYXwzNDU4NzY0NTY3MzA3NDU5MjgxfDI=?share_link_id=485326501232)
+
  
