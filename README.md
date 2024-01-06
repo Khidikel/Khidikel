@@ -1,6 +1,6 @@
 ### Hi there 😍
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 * I'm manual and automation Engineer from Saint-P;
