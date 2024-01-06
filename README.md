@@ -16,7 +16,20 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/notion.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/qase.svg" title="qase" alt="qase" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/metabase.svg" title="metabase" alt="metabase" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/charles.svg" title="charles" alt="charles" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kibana.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sentry.svg" title="sentry" alt="sentry" width="40" height="40"/>&nbsp;
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="cypress" alt="cypress" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachekafka.svg" title="apachekafk" alt="apachekafk" width="40" height="40"/>&nbsp;
+ </div>
 
  
