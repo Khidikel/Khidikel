@@ -37,5 +37,5 @@
 
  ## Pet-проекты
  [Чек-листы в Miro](https://miro.com/welcomeonboard/MzA5NEtpODVyYnVIM252amdwZG1JVE5pS1JJRFlkTU45YUNacENqbkt4ZEVyVEN1M1Fjb1hoUUFZREV3UXNIYXwzNDU4NzY0NTY3MzA3NDU5MjgxfDI=?share_link_id=485326501232)
-
+ [Бот валидатор + бьютифаер JSON](@khidikel_qa_json_bot)
  
