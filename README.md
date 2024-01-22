@@ -4,7 +4,7 @@
 </div>
 
 * I'm manual and automation Engineer from Saint-P;
-* I've been working at QA since 2023;
+* I've been working at QA since 2020;
 * Contacts:
   * Email: helehahidikel@gmail.com
   * Telegram: https://t.me/Khidik
